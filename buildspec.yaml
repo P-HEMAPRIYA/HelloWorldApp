@@ -1,0 +1,20 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo "Pre-building..."
+  build:
+    commands:
+      - dotnet --version
+      - dotnet restore
+      - dotnet build
+      - dotnet publish -c Release -o ./publish
+  post_build:
+    commands:
+      - echo "Post-building..."
+
+artifacts:
+  files: 
+    - '**/*'
+  base-directory: './publish'

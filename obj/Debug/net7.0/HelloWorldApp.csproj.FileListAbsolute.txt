@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.exe
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.deps.json
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.runtimeconfig.json
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.dll
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.pdb
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.dll
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\refint\HelloWorldApp.dll
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.pdb
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\demo\demo_repo\HelloWorldApp\obj\Debug\net7.0\ref\HelloWorldApp.dll
